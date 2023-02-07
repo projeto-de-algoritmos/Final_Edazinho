@@ -9,6 +9,7 @@
 | 18/0017870  |  Giulia Lobo Barros |
 
 ## Vídeo de apresentação
+https://unbbr.sharepoint.com/:v:/s/Dupla1-PA/EU43jZijqmVFqay8gQNRjsQBsFKHVkI5vrR0VCTxbqXnTA?e=Rtz3dg
 
 ## Enunciado do jogo
 [Descreva os objetivos do seu projeto e como ele funciona. ](https://www.brunoribas.com.br/eda2/2021-1/edazinho-enunciado/jogo.html)
