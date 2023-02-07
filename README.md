@@ -1,45 +1,32 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Trabalho Final:
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+# Edazinho da dominação
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 15/0141629  |  Matheus Pimentel Leal |
+| 18/0017870  |  Giulia Lobo Barros |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+## Vídeo de apresentação
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+## Enunciado do jogo
+[Descreva os objetivos do seu projeto e como ele funciona. ](https://www.brunoribas.com.br/eda2/2021-1/edazinho-enunciado/jogo.html)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C<br>
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+```sh
+gcc -o edazinho edazinhoOriginal.c
+```
 
+```sh
+./edazinho
+```
+## Outros
 
-
-
+- Repositório original: https://github.com/Matheuspleal/EDA2_2021-1
+- Scoreboard do jogo: https://moj.naquadah.com.br/cgi-bin/score.sh/bcr-EDA2-2021_1-trabalho2
+- Link apresentação: 
